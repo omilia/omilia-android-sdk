@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="omilia_sdk_key">(OmiliaSdkKey)</string>
+    <string name="omilia_base_url">(OmiliaBaseUrl)</string>
+    <string name="omilia_bot_name">(OmiliaBotName)</string>
+
+</resources>

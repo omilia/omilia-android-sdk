@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Omilia Demo</string>
+
+    <!--omilia android ui-->
+    <string name="copy">Copy</string>
+
+    <string name="user_input__hint">Send a message</string>
+
+    <!--errors-->
+    <string name="error_empty_send">Please type a message first.</string>
+    
+</resources>
