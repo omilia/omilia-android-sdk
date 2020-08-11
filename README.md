@@ -59,13 +59,13 @@ Secondly, in your `res/values` folder make sure to create a file `omilia.xml` wi
 <resources>
 
     <string name="omilia_sdk_key">{OmiliaSdkKey}</string>
-    <string name="omilia_base_url">{OmiliaBaseUrl}</string>
+    <string name="omilia_url">{OmiliaUrl}</string>
     <string name="omilia_bot_name">{OmiliaBotName}</string>
 
 </resources>
 ```
 
-**Note**: Initializing Omilia's SDK like this is `very important`. Replace `{OmiliaSdkKey}`, `{OmiliaBaseUrl}` and `{OmiliaBotName}` with your SDK key, your simple-proxy connector url and 
+**Note**: Initializing Omilia's SDK like this is `very important`. Replace `{OmiliaSdkKey}`, `{OmiliaUrl}` and `{OmiliaBotName}` with your SDK key, your simple-proxy connector url and 
 the desired bot name.
 
 ### Build your app

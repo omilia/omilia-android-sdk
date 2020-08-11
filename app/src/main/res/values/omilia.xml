@@ -2,7 +2,7 @@
 <resources>
 
     <string name="omilia_sdk_key">(OmiliaSdkKey)</string>
-    <string name="omilia_base_url">(OmiliaBaseUrl)</string>
+    <string name="omilia_url">(OmiliaUrl)</string>
     <string name="omilia_bot_name">(OmiliaBotName)</string>
 
 </resources>
