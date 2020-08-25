@@ -3,6 +3,7 @@
 
     <string name="omilia_sdk_key">(OmiliaSdkKey)</string>
     <string name="omilia_url">(OmiliaUrl)</string>
+    <string name="omilia_disable_ssl_checking">(OmiliaDisableSslChecking)</string>
     <string name="omilia_bot_name">(OmiliaBotName)</string>
 
 </resources>

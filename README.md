@@ -60,13 +60,14 @@ Secondly, in your `res/values` folder make sure to create a file `omilia.xml` wi
 
     <string name="omilia_sdk_key">{OmiliaSdkKey}</string>
     <string name="omilia_url">{OmiliaUrl}</string>
+    <string name="omilia_disable_ssl_checking">(OmiliaDisableSslChecking)</string>
     <string name="omilia_bot_name">{OmiliaBotName}</string>
 
 </resources>
 ```
 
 **Note**: Initializing Omilia's SDK like this is `very important`. Replace `{OmiliaSdkKey}`, `{OmiliaUrl}` and `{OmiliaBotName}` with your SDK key, your simple-proxy connector url and 
-the desired bot name.
+the desired bot name. Make sure to delete "omilia_disable_ssl_checking", since this option is really dangerous.
 
 ### Build your app
 
